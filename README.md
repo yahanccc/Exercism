@@ -6,3 +6,4 @@
 - Day 1: Numbers & Arithmetic Operators
 - Day 2: Booleans
 - Day 3: Strings
+- Day 4: Conditionals & Comparison
