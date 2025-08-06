@@ -7,3 +7,4 @@
 - Day 2: Booleans
 - Day 3: Strings
 - Day 4: Conditionals & Comparison
+- Day 5: Arrays
