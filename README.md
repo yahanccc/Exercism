@@ -8,3 +8,4 @@
 - Day 3: Strings
 - Day 4: Conditionals & Comparison
 - Day 5: Arrays
+- Day 6: Increment/Decrement & For Loops
