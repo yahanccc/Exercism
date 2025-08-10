@@ -9,3 +9,5 @@
 - Day 4: Conditionals & Comparison
 - Day 5: Arrays
 - Day 6: Increment/Decrement & For Loops
+- Day 7: While Loops & Switch Statement
+- Day 8: Objects
