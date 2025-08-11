@@ -11,3 +11,4 @@
 - Day 6: Increment/Decrement & For Loops
 - Day 7: While Loops & Switch Statement
 - Day 8: Objects
+- Day 9: Null and Undefined
