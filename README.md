@@ -12,3 +12,4 @@
 - Day 7: While Loops & Switch Statement
 - Day 8: Objects
 - Day 9: Null and Undefined
+- Day 10: Functions
