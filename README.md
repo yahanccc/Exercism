@@ -1,8 +1,7 @@
 <h3>30-Day JavaScript & TypeScript Challenge 🚀</h3>
 <p>With @Exercism <span>https://exercism.org/tracks</span></p>
 
-<h4>JavaScript</h4>
-<p align='right'>Starting August 2nd, 2025.</p>
+<h4 align='right'>JavaScript - Starting August 2nd, 2025.</h4>
 - Day 1: Numbers & Arithmetic Operators
 - Day 2: Booleans
 - Day 3: Strings
@@ -14,6 +13,5 @@
 - Day 9: Null and Undefined
 - Day 10: Functions
 
-<h4>TypeScript</h4>
-<p align='right'>Starting August 14th, 2025.</p>
+<h4 align='right'>TypeScript - Starting August 14th, 2025.</h4>
 - Day 1: Hello World
