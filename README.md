@@ -2,7 +2,7 @@
 
 > with [Exercism]
 
-<h4 align='right'>August 2025</h4>
+<h4 align='right'>Starting August 1st 2025</h4>
 
 - Day 1: Numbers & Arithmetic Operators
 - Day 2: Booleans
@@ -22,5 +22,7 @@
   > Contributed to Exercism by fixing a minor typo in the documentation. <br>
   > Submitted a pull request with 1 commit. <br>
   > My first contribution to an ```open source``` project ✔ <br>
+
+- Day 14: Randomness
 
 [Exercism]: https://exercism.org/tracks/
