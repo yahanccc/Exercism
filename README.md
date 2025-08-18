@@ -24,5 +24,6 @@
   > My first contribution to an ```open source``` project ✔ <br>
 
 - Day 14: Randomness
+- Day 15: Callbacks
 
 [Exercism]: https://exercism.org/tracks/
