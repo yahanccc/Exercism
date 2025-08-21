@@ -26,5 +26,6 @@
 - Day 14: Randomness
 - Day 15: Callbacks
 - Day 16: Array Destructuring & Object Destructuring
+- Day 17: Array Analysis & Arrow Functions
 
 [Exercism]: https://exercism.org/tracks/
