@@ -1,4 +1,4 @@
-<h3>30-Day JavaScript Challenge (& sometimes more than JS) 🚀</h3>
+<h3>JavaScript Learning Path (& sometimes more than JS) 🚀</h3>
 
 > with [Exercism]
 
@@ -27,5 +27,6 @@
 - Day 15: Callbacks
 - Day 16: Array Destructuring & Object Destructuring
 - Day 17: Array Analysis & Arrow Functions
+- Day 18: Rest and Spread
 
 [Exercism]: https://exercism.org/tracks/
