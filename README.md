@@ -1,8 +1,8 @@
-<h3>JavaScript Learning Path (& sometimes more than JS) 🚀</h3>
+<h3>JavaScript (& a little more) Learning Path 🚀</h3>
 
 > with [Exercism]
 
-<h4 align='right'>Starting August 1st 2025</h4>
+<h4 align='right'>Starting August 4th 2025</h4>
 
 - Day 1: Numbers & Arithmetic Operators
 - Day 2: Booleans
